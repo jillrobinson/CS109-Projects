@@ -2,4 +2,4 @@
 Made up practice projects based on CS109 learning.
 
 Issues:
-Folium not currently working on Github.
+Need to add fix to get Folium maps to show on Jupyter Notebook in Github
